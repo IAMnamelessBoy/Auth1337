@@ -4,9 +4,9 @@ from GitHub import Readme
 class Auth(Readme):
     "https://GitHub.com/Auth1337/Auth/README.md"
     def __init__(self):
-      self.name = "Auth"
-      self.contact = "https://discord.gg/lgnop"
-      self.age = 16
-      self.discord = "Auth#1337"
-      self.location = "Venus"
+      self.name = "asyncio"
+      self.contact = "https://discord.gg/KaPCUwjUwy"
+      self.age = 14
+      self.discord = "asyncio#1337"
+      self.location = "your Mama's bed"
 ```
